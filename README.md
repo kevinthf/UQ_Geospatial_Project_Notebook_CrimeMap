@@ -4,3 +4,5 @@ The aims of this project can be summarised as follows: </br>
 ⚫ Identify spatial and temporal patterns of drug offences in Logan Central from 2024 to 2025. </br>
 ⚫ Interpret the potential reasons for high numbers of drug offences by examining the characteristics of hotspot MBs by correlation analysis </br>
 ⚫ Examine the distance-decay relationship between crime hotspot MBs and their neighbouring MBs. 
+
+[Notebook Overview](https://github.com/kevinthf/UQ_Geospatial_Project_Notebook_CrimeMap/blob/main/Geospatial_Project_Notebook.ipynb)
